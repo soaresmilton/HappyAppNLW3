@@ -1,5 +1,5 @@
 <h1 align="center">
-happy app
+  happy app
   <img alt="Happy App" src="./imagens/logo.svg">
 </h1>
 
@@ -21,8 +21,8 @@ happy app
 
  # Projeto  <img alt="foguete rocketseat" src="./imagens/mobileicon.svg" width="50px" align="center"> 
  
-<p>O <strong>Be The Hero</strong> é um projeto desenvolvido com Node.js, React.js e React Native, cuja a ideia é conectar possíveis financiadores (Heróis) a campanhas criadas por ONG's.</p>
-<p>A aplicação foi desenvolvida durante a Semana Omnistack 11.0 promovida pela Rocketseat. O projeto avançou por todas as camadas de desenvolvimento, tratando as melhores tecnologias do mercado, levando o aluno a desenvolver dês do back-end até o front-end mobile.</p>
+<p>O <strong>Happy App</strong> é um projeto desenvolvido com Node.js, React.js e React Native, cuja a ideia é promover visitas a orfanato e proporcionar um dia feliz para as crianças.</p>
+<p>A aplicação foi desenvolvida durante a Next Level Week 3 promovida pela Rocketseat. O projeto avançou por todas as camadas de desenvolvimento, tratando as melhores tecnologias do mercado, levando o aluno a desenvolver dês do back-end até o front-end mobile.</p>
 
 # Tecnologias usadas <img alt="foguete rocketseat" src="./imagens/rocket.png" width="50px" align="center"> 
 Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mobile, banco de dados, conexões, rotas, validações e testes automatizados.
