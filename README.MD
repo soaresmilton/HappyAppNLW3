@@ -1,4 +1,5 @@
 <h1 align="center">
+happy app
   <img alt="Happy App" src="./imagens/logo.svg">
 </h1>
 
@@ -44,6 +45,7 @@ Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mo
 <div align="center" >
   <img src="./imagens/Happy.gif" alt="demo-web" height="425">
 </div>
+
 # Rodando a aplicação 
 
 #### Back-end
