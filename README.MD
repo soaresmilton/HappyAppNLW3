@@ -1,6 +1,5 @@
 <h1 align="center">
-  happy app
-  <img alt="Happy App" src="./imagens/logo.svg">
+  <img alt="Happy App" src="./imagens/logo.png">
 </h1>
 
 <h2 align="center">
@@ -21,11 +20,12 @@
 
  # Projeto  <img alt="foguete rocketseat" src="./imagens/mobileicon.svg" width="50px" align="center"> 
  
-<p>O <strong>Happy App</strong> é um projeto desenvolvido com Node.js, React.js e React Native, cuja a ideia é promover visitas a orfanato e proporcionar um dia feliz para as crianças.</p>
+<p>O <strong>Happy</strong> é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz</p>
 <p>A aplicação foi desenvolvida durante a Next Level Week 3 promovida pela Rocketseat. O projeto avançou por todas as camadas de desenvolvimento, tratando as melhores tecnologias do mercado, levando o aluno a desenvolver dês do back-end até o front-end mobile.</p>
 
 # Tecnologias usadas <img alt="foguete rocketseat" src="./imagens/rocket.png" width="50px" align="center"> 
 Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mobile, banco de dados, conexões, rotas, validações e testes automatizados.
+## Utilizadas na Web App
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -41,24 +41,36 @@ Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mo
 - [Insomnia](https://insomnia.rest/)
 - [Beekeeper Studio](https://www.beekeeperstudio.io/)
 
-# Projeto
+## Utilizadas no Mobile App
+- [React Native JS](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [React Navigation](https://reactnavigation.org/)
+
+
+# Projeto Web
 <div align="center" >
   <img src="./imagens/Happy.gif" alt="demo-web" height="425">
+</div>
+
+# Projeto Mobile
+<div align="center">
+  <img src="./imagens/videoHappyMobile.gif" alt="demo-mobile" heigth="425">
 </div>
 
 # Rodando a aplicação 
 
 #### Back-end
-1 - `npm install` para baixar todas as dependências necessárias.
+1 - `yarn install` para baixar todas as dependências necessárias.
 
-2 - `npx typeorm migrate:latest` para executar as migrations e criar as tabelas do banco de dados.
+2 - `yarn typeorm migrate:run` para executar as migrations e criar as tabelas do banco de dados.
 
-3 - `npm start` para rodar o servidor.
+3 - `yarn dev` para rodar o servidor.
 
 #### Front-end Web
-1 - `npm install` para baixar todas as dependências necessárias.
+1 - `yarn install` para baixar todas as dependências necessárias.
 
-2 - `npm start` para rodar o servidor.
+2 - `yarn start` para rodar o servidor.
 
 # Como contribuir 
 
